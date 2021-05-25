@@ -1,0 +1,88 @@
+body
+{
+    font-family: Pattaya, cursive;
+    background-color:khaki;
+}
+
+
+.header_div img
+{
+    width : 100px;
+}
+
+.header_div 
+{
+  background: white;
+  color: #ce2700;
+}
+
+.main_div 
+{
+  background: lavenderblush;
+  width: 350px;
+  height: 300px;
+  margin-top: 15px;
+  padding: 10px;
+  border: 2px;
+  border-color: lightcoral;
+}
+
+#camera, #result
+{
+  border: 2px solid;
+  width: 310px;
+  height: 300px;
+  box-shadow: 5px 5px 18px white;
+}
+
+.main_div label
+{
+    padding: 10px;
+    margin-bottom: 15px;
+    background:lemonchiffon;
+    width: 310px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button
+{
+    border: 1px solid;
+    box-shadow: 5px 5px 18px white;
+    font-size: 16px;
+    width: 310px;
+}
+
+
+.footer_div{
+  margin-bottom: 50px;
+}
+
+.footer_div h4
+{
+  background: white;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 5px 5px 5px 18px white;
+}
+
+.footer_div img{
+  width: 70px;
+
+}
+
+
+.copyright_footer
+{
+  position: fixed;
+  bottom:0;
+  background: grey;
+  background-color: white;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+
+
+
+
